@@ -30,4 +30,9 @@ selectcolors[2] = "green"
 console.log(selectcolors)
 
 //functions
+function greet(name, lastname) {
+    console.log("hello " + name + " " + lastname)
+}
+greet("eze", "junior")
 
+//types of function

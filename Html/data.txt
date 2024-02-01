@@ -1,0 +1,7 @@
+# ascii: 
+# meta elements:
+# elemento <p></p> sirve para crear parrafos.
+# elemento <em></em> sirve para hacer enfasis en una palabra o un bloque de texto especifico.
+# elemento <strong> Sirve volver negrita una palabra o un bloque de texto en especifico.
+# existen 6 elementos <h1>....<h6> los cuales sirven para crear headers 
+# 
