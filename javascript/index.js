@@ -22,3 +22,12 @@ console.log(person.firstname)
 // bracket notation
 person["firstname"] = "lulo"
 console.log(person.firstname)
+
+//arrays
+let selectcolors = ["red", "blue"]
+selectcolors[3] = 1
+selectcolors[2] = "green"
+console.log(selectcolors)
+
+//functions
+

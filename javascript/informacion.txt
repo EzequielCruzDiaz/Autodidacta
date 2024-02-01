@@ -12,4 +12,6 @@
 #dot notation: sintaxis para acceder a las propiedades de un objecto
 #bracket notatio: sintaxis para acceder a las propiedades de un objecto
 
-#
+#arrays son objectos en javascript
+
+
