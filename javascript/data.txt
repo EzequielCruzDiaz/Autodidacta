@@ -1,0 +1,15 @@
+# variable = es un valor que ocupa un espacio en el disco.almacenar datos
+# no se puede usar keyword(if,else,for) para variables.
+# usar nombres significativos para variables 
+# usar cammel notation para nombrar variables 
+# las variables son case sensitive en js 
+# variables constantes, no se puede cambiar el valor, pero let permite el cambio del valor de una variable en el futuro
+
+#primitives types : string, number, boolean
+#references types : object , array , functions
+
+
+#dot notation: sintaxis para acceder a las propiedades de un objecto
+#bracket notatio: sintaxis para acceder a las propiedades de un objecto
+
+#

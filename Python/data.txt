@@ -1,0 +1,4 @@
+# variable = es un valor que ocupa un espacio en el disco.almacenar datos
+# no se puede usar keyword(if,else,for) para variables.
+# nombres significativos 
+# usar cammel notitation 
