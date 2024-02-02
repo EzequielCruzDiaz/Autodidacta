@@ -2,3 +2,7 @@
 # no se puede usar keyword(if,else,for) para variables.
 # nombres significativos 
 # usar cammel notitation 
+
+#es case sensitive
+
+

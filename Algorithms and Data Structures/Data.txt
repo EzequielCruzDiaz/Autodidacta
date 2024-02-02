@@ -1,0 +1,7 @@
+# Un algoritmo es una serie de pasos o reglas definidas y ordenadas que se siguen para realizar una tarea o resolver un problema específico. 
+# Piensa en un algoritmo como una receta paso a paso. 
+# Por ejemplo, la receta para hacer un sandwich es un algoritmo.
+
+
+
+
