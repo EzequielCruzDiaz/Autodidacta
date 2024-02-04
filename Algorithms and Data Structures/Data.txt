@@ -3,5 +3,8 @@
 # Por ejemplo, la receta para hacer un sandwich es un algoritmo.
 
 
+#el algoritmo de ordenamiento por inserción trabaja construyendo una sublista ordenada de elementos, 
+#uno a la vez, moviéndose hacia la izquierda a través de la lista y insertando cada nuevo elemento en su lugar correcto.
 
+#el algoritmo de ordenamiento de burbuja 
 

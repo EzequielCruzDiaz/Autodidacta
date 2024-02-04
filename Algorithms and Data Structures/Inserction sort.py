@@ -1,5 +1,5 @@
 numeros = [5, 3, 6, 2, 9, 7, 4, 8]
-print(numeros)
+print(f"{numeros} Desorganizado")
 
 for j in range(1, len(numeros)):
     actual = numeros[j]
@@ -10,4 +10,4 @@ for j in range(1, len(numeros)):
          i -= 1
     numeros [i+1] = actual
 
-print(numeros)    
+print(f"{numeros} organizado")
