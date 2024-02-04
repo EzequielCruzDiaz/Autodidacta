@@ -1,10 +1,59 @@
 # Un algoritmo es una serie de pasos o reglas definidas y ordenadas que se siguen para realizar una tarea o resolver un problema específico. 
-# Piensa en un algoritmo como una receta paso a paso. 
-# Por ejemplo, la receta para hacer un sandwich es un algoritmo.
+Piensa en un algoritmo como una receta paso a paso. 
+Por ejemplo, la receta para hacer un sandwich es un algoritmo.
+
+# Estructura de Datos:
+La estructura de datos se refiere a la forma en que organizamos y almacenamos datos para que puedan ser utilizados eficientemente. 
+Es como el marco o la infraestructura que proporciona un medio para almacenar y organizar información. 
+Ejemplos comunes de estructuras de datos incluyen listas, arreglos, colas y árboles.
 
 
-#el algoritmo de ordenamiento por inserción trabaja construyendo una sublista ordenada de elementos, 
-#uno a la vez, moviéndose hacia la izquierda a través de la lista y insertando cada nuevo elemento en su lugar correcto.
 
-#el algoritmo de ordenamiento de burbuja 
+# El algoritmo de ordenamiento por inserción trabaja construyendo una sublista ordenada de elementos, 
+uno a la vez, moviéndose hacia la izquierda a través de la lista y insertando cada nuevo elemento en su lugar correcto.
 
+# El algoritmo de ordenamiento de burbuja 
+
+
+--------- Algoritmos-----------
+
+# Búsqueda Lineal:
+Descripción: Busca un elemento en una lista uno por uno hasta encontrarlo o llegar al final.
+Ejemplo: Buscar un nombre en una lista telefónica empezando desde el principio.
+
+# Búsqueda Binaria:
+
+Descripción: Divide repetidamente la lista por la mitad hasta encontrar el elemento buscado.
+Ejemplo: Buscar un número en una lista ordenada.
+
+# Ordenamiento de Burbuja:
+
+Descripción: Compara pares de elementos adyacentes y los intercambia si están en el orden incorrecto, repitiendo este proceso hasta que la lista esté ordenada.
+Ejemplo: Ordenar cartas de juego en tu mano.
+
+# Algoritmo de Dijkstra (Camino más corto):
+
+Descripción: Encuentra el camino más corto entre dos nodos en un grafo ponderado.
+Ejemplo: Encontrar la ruta más rápida para llegar de un lugar a otro en un mapa.
+
+ --------- Estructuras de Datos -----------
+
+# Arreglo:
+Descripción: Una colección de elementos del mismo tipo, accesibles por un índice.
+Ejemplo: Lista de calificaciones de estudiantes.
+
+# Lista Enlazada:
+Descripción: Elementos conectados entre sí, donde cada elemento apunta al siguiente.
+Ejemplo: Lista de reproducción de música.
+
+# Pila:
+Descripción: Colección de elementos donde el último en entrar es el primero en salir (LIFO).
+Ejemplo: Pila de platos.
+
+# Cola:
+Descripción: Colección de elementos donde el primero en entrar es el primero en salir (FIFO).
+Ejemplo: Cola en una taquilla.
+
+# Árbol Binario:
+Descripción: Estructura jerárquica donde cada nodo tiene, a lo sumo, dos hijos.
+Ejemplo: Estructura de directorios en una computadora.
