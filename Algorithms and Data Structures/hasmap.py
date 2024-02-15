@@ -7,3 +7,5 @@ class Solution(object):
                 return [prevMap[diff], i]
             prevMap[n] = i
         return None
+
+
