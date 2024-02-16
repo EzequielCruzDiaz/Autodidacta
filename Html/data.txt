@@ -12,4 +12,21 @@ como el autor, la descripción del contenido, palabras clave relevantes, el conj
 
 # existen 6 elementos <h1>....<h6> los cuales sirven para crear headers 
 
+# elemento <a> se crean los enlaces para direccionar al usuario. ej:<a href="mailto:ezequielcruz018@gmail.com">Send me a message</a>
+
+# elemento object-fit: modifica los bordes de los elementos en una pagina.
+
+# elemento <video>: insertar video, en conjunto de la propiedad controls, para adaptar el video.
+
+# elemento <audio>: insertar audio,en conjunto de la propiedad controls, para adaptar el sonido.
+
+#elemento Hay tres tipos principales de listas en HTML: 
+listas desordenadas (<ul>), 
+listas ordenadas (<ol>), 
+listas de definición (<dl>)
+
+# elemento <li> significa un elemento en la lista.
+
 # 
+
+
