@@ -27,6 +27,10 @@ listas de definición (<dl>)
 
 # elemento <li> significa un elemento en la lista.
 
+# elemento li*3 crea automaticamente 3 elementos de lista.
+
+# elemento ol>li*3 crea automaticamente toda la lista y sus espacios.
+
 # 
 
 
