@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+  <h1>Junior Full Stack Developer Journey 🚀</h1>
+
+  <details>
+    <summary>Ver HTML</summary>
+    <pre><code>&lt;<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -46,12 +50,7 @@
     }
   </style>
 </head>
-<body>
-  <h1>Junior Full Stack Developer Journey 🚀</h1>
-
-  <details>
-    <summary>Ver HTML</summary>
-    <pre><code>&lt;!-- Coloca aquí el código HTML --&gt;</code></pre>
+<body>&gt;</code></pre>
   </details>
 
   <h2>Acerca de</h2>
