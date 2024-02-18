@@ -31,6 +31,23 @@ listas de definición (<dl>)
 
 # elemento ol>li*3 crea automaticamente toda la lista y sus espacios.
 
-# 
+# elemento tablas: Las tablas en HTML son utilizadas para mostrar datos de manera organizada y estructurada en forma de filas y columnas.
+<table>: Define una tabla.
+<tr>: Define una fila en la tabla.
+<td>: Define una celda de datos en una fila.
+<th>: Define una celda de encabezado de columna o fila.
+
+# Atributos principales:
+border: Establece el ancho del borde de la tabla.
+cellpadding: Espacio interior entre el borde de la celda y su contenido.
+cellspacing: Espacio entre las celdas de la tabla.
+colspan: Especifica el número de columnas que una celda debería ocupar.
+rowspan: Especifica el número de filas que una celda debería ocupar.
+
+ # Encabezados y cuerpos de tabla:
+
+<thead>: Define el encabezado de una tabla.
+<tbody>: Define el cuerpo de una tabla.
+<tfoot>: Define el pie de una tabla
 
 
