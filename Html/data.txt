@@ -51,3 +51,6 @@ rowspan: Especifica el número de filas que una celda debería ocupar.
 <tfoot>: Define el pie de una tabla
 
 # The semantic elements in HTML5 are: <header>, <footer>, <nav>, <main>,  <aside>, <article>, <section>, <figure>, <time> and <mark>.
+
+# Si queremos crear varios elementos en conjunto a un id, se utiliza : article.product>*3
+
