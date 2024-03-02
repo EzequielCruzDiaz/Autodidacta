@@ -35,4 +35,3 @@ function greet(name, lastname) {
 }
 greet("eze", "junior")
 
-//types of function
