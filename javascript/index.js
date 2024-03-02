@@ -59,3 +59,11 @@ console.log({ nuevojuego, juegos })
 juegoborrado = juegos.pop(); // borrar el ultimo elemento del array
 console.log({ juegoborrado, juegos })
 
+juegosborrados = juegos.splice(1, 2) //borrar especificamente un elemento
+console.log({ juegosborrados, juegos })
+
+let SearchGame = juegos.indexOf("God of war") // cnocer la posicion exacta de un elemento
+console.log({ SearchGame })
+
+
+
