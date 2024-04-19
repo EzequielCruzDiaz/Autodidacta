@@ -1,8 +1,10 @@
-
 let deck = [];
-const _ = require('lodash');
+import { shuffle } from 'lodash';
 const tipos = ['C', 'D', 'H', 'S']
 const especiales = ['A', 'J', 'Q', 'K'] 
+
+const btnpedir = document.querySelector("#btnpedir")
+console.log(btnpedir)
 
 const crearDeck = () => {
 for (let i = 2; i<=10; i++){
@@ -16,7 +18,7 @@ for (let tipo of tipos){
     }
 }
 
-    deck = _.shuffle(deck);
+    deck = shuffle(deck);
     console.log(deck);
 }
 
@@ -28,21 +30,19 @@ const pedirCarta = () => {
     if(deck.length === 0){
         throw 'No hay cartas en el deck';
     }
-    
     let carta = deck.pop();
-
-    console.log(deck);
-    console.log(carta);
     return carta;
     
 
 }
 
-//pedirCarta();
+pedirCarta();
 
 const valorcarta = (carta) => {
     
     const valor = carta.substring(0, carta.length-1 );
-     return 
+     return (isNaN(valor) ) ?
+     (valor === "A") ? 11 : 10
+     :valor * 1;
 }
-valorcarta('1D');
+
