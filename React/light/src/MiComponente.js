@@ -14,7 +14,6 @@ const MiComponente = () => {
   
   return ( 
    <div className="Mi-componente">
-     <hr/>
      
      <h2>Componente Creado</h2>
 
@@ -26,7 +25,8 @@ const MiComponente = () => {
         <li> Web: {usuario.web} </li>
       </ul>
      
-     <p>Este es mi primero componente</p>
+     <hr/>
+     <p><strong>Lenguajes</strong></p>
 
       <ul>
         <li>Python</li>

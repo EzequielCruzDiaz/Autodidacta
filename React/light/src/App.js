@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import MiComponente from './MiComponente';
+import { SegundoComponente } from './SegundoComponente';
 
 function App() {
   return (
@@ -11,8 +12,14 @@ function App() {
           Aprendiendo React 
         </p>
 
-        {/* mi primer componente */}
+    <div className='Componentes'>  
+      {/* mi primer componente */}
+        <hr/>
         <MiComponente/>
+        <hr/>
+        <SegundoComponente/>
+        </div>
+      
       </header>
     </div>
   );
