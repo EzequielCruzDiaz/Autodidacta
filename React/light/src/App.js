@@ -2,6 +2,16 @@ import logo from './logo.svg';
 import './App.css';
 import MiComponente from './MiComponente';
 import { SegundoComponente } from './SegundoComponente';
+import { TercerComponente } from './TercerComponente';
+
+ const fichaMedica = {
+  sangre: "0+",
+  estado: "sano",
+  altura:"6.1"
+
+
+ }
+
 
 function App() {
   return (
@@ -13,11 +23,16 @@ function App() {
         </p>
 
     <div className='Componentes'>  
-      {/* mi primer componente */}
         <hr/>
         <MiComponente/>
         <hr/>
         <SegundoComponente/>
+        <hr/>
+        <TercerComponente
+         nombre = "Ezequiel"
+         apellido = "Cruz Diaz"
+         ficha = {fichaMedica} 
+        />
         </div>
       
       </header>
