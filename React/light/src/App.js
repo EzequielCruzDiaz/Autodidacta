@@ -3,6 +3,7 @@ import './App.css';
 import MiComponente from './MiComponente';
 import { SegundoComponente } from './SegundoComponente';
 import { TercerComponente } from './TercerComponente';
+import { EventoComponente } from './EventoComponente';
 
  const fichaMedica = {
   sangre: "0+",
@@ -22,7 +23,9 @@ function App() {
           Aprendiendo React 
         </p>
 
-    <div className='Componentes'>  
+    <div className='Componentes'>
+        <hr/>
+        <EventoComponente/>  
         <hr/>
         <MiComponente/>
         <hr/>
