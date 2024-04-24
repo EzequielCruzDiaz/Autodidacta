@@ -6,29 +6,21 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.*/
 
 
+var twoSum = function(nums, target) {
+    const numMap = {}
 
-var twosum = (nums, target) => {
+    for (let i = 0; i < nums.length; i++) {
+        const difference = target - nums[i];   
 
-const numMap = {}
+        if (numMap.hasOwnProperty(difference)) {
 
-for (let i = 0; i < nums.length; i++) {
-    const difference = target - nums[i];
+           return [numMap[difference], i];
+        }
 
-    if (numMap.hasOwnProperty(difference)) {
+         numMap[nums[i]] = i
 
-
-        return [numMap[difference],i];
     }
+    
+    return [];
+};
 
-    numMap[nums[i]]
-
-}
-
-return [];
-
-}   
-
-
-const nums = [2, 7, 11, 15];
-const target = 9;
-console.log(twosum(nums, target));
