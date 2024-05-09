@@ -9,3 +9,4 @@ class persona:
 
 persona1 = persona("ezequiel",25)
 persona1.saludar()
+
