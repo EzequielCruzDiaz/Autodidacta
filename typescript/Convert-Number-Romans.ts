@@ -18,9 +18,5 @@ function numero_romano(numero: number) {
   return resultado
 }
 
-// let numero:any = prompt("Introduzca un numero deseado");
-
-// console.log(`El número introducido en números romanos es: ${numero_romano(numero)}`);
-
 
 
